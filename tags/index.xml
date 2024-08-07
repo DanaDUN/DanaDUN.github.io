@@ -1,61 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on It&#39;s Dana Yang</title>
+    <title>Tags on It&#39;s Dana</title>
     <link>https://DanaDUN.github.io/tags/</link>
-    <description>Recent content in Tags on It&#39;s Dana Yang</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Tags on It&#39;s Dana</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 18 Jul 2024 13:15:00 +0800</lastBuildDate>
+    <copyright>© 2024 Dana.Y. Stealing is bad, m&#39;kay? 😎</copyright>
     <atom:link href="https://DanaDUN.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Markdown</title>
-      <link>https://DanaDUN.github.io/tags/markdown/</link>
-      <pubDate>Thu, 18 Jul 2024 13:15:00 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>https://DanaDUN.github.io/tags/shortcodes/</link>
-      <pubDate>Thu, 18 Jul 2024 13:15:00 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Game</title>
-      <link>https://DanaDUN.github.io/tags/game/</link>
-      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>New</title>
-      <link>https://DanaDUN.github.io/tags/new/</link>
-      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Photos</title>
-      <link>https://DanaDUN.github.io/tags/photos/</link>
-      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://DanaDUN.github.io/tags/python/</link>
-      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>React</title>
-      <link>https://DanaDUN.github.io/tags/react/</link>
-      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/tags/react/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on It&#39;s Dana Yang</title>
+    <title>Categories on It&#39;s Dana</title>
     <link>https://DanaDUN.github.io/categories/</link>
-    <description>Recent content in Categories on It&#39;s Dana Yang</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Categories on It&#39;s Dana</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 18 Jul 2024 13:15:00 +0800</lastBuildDate>
+    <copyright>© 2024 Dana.Y. Stealing is bad, m&#39;kay? 😎</copyright>
     <atom:link href="https://DanaDUN.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Learning Notes</title>
-      <link>https://DanaDUN.github.io/categories/learning-notes/</link>
-      <pubDate>Thu, 18 Jul 2024 13:15:00 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/categories/learning-notes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Android and Gaming</title>
-      <link>https://DanaDUN.github.io/categories/android-and-gaming/</link>
-      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/categories/android-and-gaming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://DanaDUN.github.io/categories/html--css/</link>
-      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
-      <guid>https://DanaDUN.github.io/categories/html--css/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
